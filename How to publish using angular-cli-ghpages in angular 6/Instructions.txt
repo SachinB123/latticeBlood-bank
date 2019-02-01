@@ -1,0 +1,6 @@
+>> ng build --prod --output-path dist/ --base-href https://SachinB123.github.io/latticeBlood-bank/
+
+					OR
+   ng build --prod --output-path dist/ --base-href https://SachinB123.github.io/latticeBlood-bank/index.html
+
+>> ngh -no-silent
